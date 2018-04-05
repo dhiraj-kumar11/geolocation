@@ -4,19 +4,19 @@
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef1"
-            },           
+            }           
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef2"
-            },
+            }
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef3"
-            },
+            }
         }
     ]
 }
